@@ -1,3 +1,4 @@
+# Link video : https://youtu.be/xLj7H4Fgndg
 1.  Reflex Agent
     Tính điểm của trạng thái đích dựa trên khoảng cách đến thức ăn và ma xung quanh trạng thái đích.
 
